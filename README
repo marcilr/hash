@@ -19,6 +19,13 @@ main.c
   This is a quick test driver for the Hash ADT 
 
 Makefile
-README
+
 str.c
+  Created  Fri Aug  9 14:05:56 AKDT 2002
+  by Raymond E. Marcil <marcilr@rockhounding.net>
+ 
+  This small library contains some string utilities
+  used in the project. Just put them here to keep
+  things tidy.
+
 str.h
