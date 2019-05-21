@@ -21,6 +21,7 @@ main.c
   This is a quick test driver for the Hash ADT 
 
 Makefile
+  Makefile to build quick test driver for the Hash ADT
 
 str.c
   Created  Fri Aug  9 14:05:56 AKDT 2002
