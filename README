@@ -12,7 +12,12 @@ hash.c
   This is a generic Hash ADT
 
 hash.h
+  Header file for hash ADT
+
 main.c
+  Created Wed Aug  7 13:15:06 AKDT 2002
+  This is a quick test driver for the Hash ADT 
+
 Makefile
 README
 str.c
